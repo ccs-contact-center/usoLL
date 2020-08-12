@@ -36,7 +36,7 @@ class Actividad3View extends Component {
       palabra10: "",
       palabra11: "",
       id_ccs: this.Aunth.getProfile().id_ccs,
-      form: "usoV",
+      form: "usoLL-3",
     };
   }
 
@@ -52,7 +52,7 @@ class Actividad3View extends Component {
 
       swal({
         title: "Status Actividad",
-        text: "Se guardo la actividad: 1, con id: " + respuesta[0].id,
+        text: "Se guardo la actividad: 3, con id: " + respuesta[0].id,
         icon: "success",
         dangerMode: true,
         button: {
@@ -68,7 +68,7 @@ class Actividad3View extends Component {
     } catch (err) {
       swal({
         title: "Status Actividad",
-        text: "No se guardo la actividad: 1, Intenta de nuevo. ",
+        text: "No se guardo la actividad: 3, Intenta de nuevo. ",
         icon: "error",
         dangerMode: true,
         button: {
