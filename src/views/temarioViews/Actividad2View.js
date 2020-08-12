@@ -44,7 +44,7 @@ class ActividadView extends Component {
       palabra6Acuerto2: "",
       palabra6Acuerto3: "",
       id_ccs: this.Auth.getProfile().id_ccs,
-      form: "usoLL",
+      form: "usoLL-2",
     };
   }
 
