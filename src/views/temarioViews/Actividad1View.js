@@ -36,7 +36,7 @@ class ActividadView extends Component {
       checkboxAcierto9: "",
       checkboxAcierto10: "",
       id_ccs: this.Auth.getProfile().id_ccs,
-      form: "usoLL",
+      form: "usoLL-1",
     };
   }
 
