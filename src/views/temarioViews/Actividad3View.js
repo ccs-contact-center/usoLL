@@ -93,7 +93,7 @@ class Actividad3View extends Component {
             <CardBody className="">
               <Row>
                 <Col xs="12">
-                  <p>3.-  Completa con G o J las palabras siguientes:</p>
+                  <p>3.-  Completa con Y o LL las palabras siguientes:</p>
                 </Col>
                 <Col xs="12">
                   <Row className="centrado-fila">
